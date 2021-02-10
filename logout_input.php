@@ -13,5 +13,4 @@
     <p>ログアウトしますか？</p>
     <a href="logout_output.php">ログアウト</a>
 </body>
-
 </html>

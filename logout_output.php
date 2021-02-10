@@ -20,5 +20,4 @@ unset($_SESSION['customer']);
 		echo 'ログアウトしました。';
 	?>
 </body>
-
 </html>

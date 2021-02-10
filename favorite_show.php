@@ -15,5 +15,4 @@
     require 'favorite.php';
     ?>
 </body>
-
 </html>

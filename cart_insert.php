@@ -32,5 +32,4 @@
 	require 'cart.php';
 	?>
 </body>
-
 </html>

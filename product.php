@@ -60,5 +60,4 @@
 		?>
 	</table>
 </body>
-
 </html>
